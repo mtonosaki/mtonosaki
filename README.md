@@ -25,7 +25,7 @@
 - 2003 C# (.NET Framework)
 - 2004 DirectX, OpenGL
 - 2005 Linux, ActionScript (Macromedia Flash)
-- 2006 JavaScript, VB, VBA, VB Script, SQL
+- 2006 JavaScript, VB, VBA, VB Script, SQL, [Agile development]
 - 2010 AutoCAD (controlled w/ DirectX)
 - 2011 Android 2.x
 - 2013 HTML5, CSS3
@@ -35,3 +35,5 @@
 - 2018 UWP, R, Python
 - 2019 Swift, Kotlin
 - 2021 React, TypeScript, SpringBoot, Kotlin, AWS
+- 2022 [Lean XP], [TDD(BDD)]
+- 2023 [Scrum]
