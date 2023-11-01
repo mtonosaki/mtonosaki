@@ -26,7 +26,7 @@
 - 2004 DirectX, OpenGL
 - 2005 Linux, ActionScript (Macromedia Flash)
 - 2006 JavaScript, VB, VBA, VB Script, SQL
-- 2010 AutoCAD (controlled via DirectX)
+- 2010 AutoCAD (controlled w/ DirectX)
 - 2011 Android 2.x
 - 2013 HTML5, CSS3
 - 2014 WPF
