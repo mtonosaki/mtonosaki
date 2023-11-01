@@ -3,7 +3,11 @@
 [![](https://img.shields.io/github/followers/mtonosaki?label=follow&logo=github&style=flat)
 ](https://github.com/mtonosaki)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtonosaki&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtonosaki)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtonosaki&theme=dracula&hide_border=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtonosaki&theme=dracula)  
 
 <p>
 <a href="https://github.com/mtonosaki">
