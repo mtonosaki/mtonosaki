@@ -7,3 +7,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mtonosaki)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtonosaki&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=mtonosaki&count_private=true&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=mtonosaki)
