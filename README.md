@@ -5,9 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtonosaki)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtonosaki&theme=dracula&hide_border=true)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtonosaki&theme=dracula)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mtonosaki&hide_border=true)
 
 <p>
 <a href="https://github.com/mtonosaki">
