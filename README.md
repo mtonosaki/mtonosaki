@@ -19,7 +19,7 @@
 - 1991 MASM, CASL
 - 1994 C, C++ (w/ MSC, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
 - 1995 TCP/IP
-- 1998 MacOS (Code worrior)
+- 1999 MacOS (Code worrior)
 - 2000 JAVA (applet, swing, etc...)
 - 2001 Qt
 - 2003 C# (.NET Framework)
@@ -27,7 +27,7 @@
 - 2005 Linux, ActionScript (Macromedia Flash)
 - 2006 JavaScript, VB, VBA, VB Script, SQL, [Agile development]
 - 2010 AutoCAD (controlled w/ DirectX)
-- 2011 Android 2.x
+- 2011 Android
 - 2013 HTML5, CSS3
 - 2014 WPF
 - 2016 WebGL (three.js)
