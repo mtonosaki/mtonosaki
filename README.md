@@ -17,7 +17,7 @@
 - 1988 Z80
 - 1990 Hu-BASIC
 - 1991 MASM, CASL
-- 1994 C, C++ (w/ MSC, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
+- 1994 C, C++ (Turbo C, MSC, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
 - 1995 TCP/IP
 - 1999 MacOS (Code worrior)
 - 2000 JAVA (applet, swing, etc...)
