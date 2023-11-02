@@ -19,7 +19,7 @@
 - 1991 MASM, CASL
 - 1994 C, C++ (w/ MSC, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
 - 1995 TCP/IP
-- 1990 MacOS (Code worrior)
+- 1998 MacOS (Code worrior)
 - 2000 JAVA (applet, swing, etc...)
 - 2001 Qt
 - 2003 C# (.NET Framework)
