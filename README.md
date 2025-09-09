@@ -25,15 +25,16 @@
 - 2004 DirectX, OpenGL
 - 2005 Linux, ActionScript (Macromedia Flash)
 - 2006 JavaScript, VB, VBA, VB Script, SQL, [Agile development]
-- 2010 AutoCAD (controlled w/ DirectX)
+- 2010 AutoCAD (w/ DirectX)
 - 2011 Android
 - 2013 HTML5, CSS3
 - 2014 WPF
 - 2016 WebGL (three.js)
 - 2017 Azure, Service Fabric, Unity, YAMAHA RTX
-- 2018 UWP, R, Python
+- 2018 UWP, R, Python, {OWASP TOP10}
 - 2019 Swift
 - 2021 React, TypeScript, SpringBoot, Kotlin, AWS, node
-- 2022 [Lean XP], [TDD(BDD)]
+- 2022 [Lean XP], [TDD(BDD)], vite, vitest
 - 2023 [Scrum]
 - 2024 Snyk, NewRelic, PrismaCloud
+- 2025 Slak Bolt
