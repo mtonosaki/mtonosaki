@@ -36,3 +36,4 @@
 - 2021 React, TypeScript, SpringBoot, Kotlin, AWS, node
 - 2022 [Lean XP], [TDD(BDD)]
 - 2023 [Scrum]
+- 2024 Snyk, NewRelic, PrismaCloud
