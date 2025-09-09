@@ -31,7 +31,7 @@
 - 2014 WPF
 - 2016 WebGL (three.js)
 - 2017 Azure, Service Fabric, Unity, YAMAHA RTX
-- 2018 UWP, R, Python, {OWASP TOP10}
+- 2018 UWP, R, Python, {OWASP TOP10}, .NET Core, .NET Standard
 - 2019 Swift
 - 2021 React, TypeScript, SpringBoot, Kotlin, AWS, node
 - 2022 [Lean XP], [TDD(BDD)], vite, vitest
