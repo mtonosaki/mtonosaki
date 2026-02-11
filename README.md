@@ -33,9 +33,9 @@
 - 2017 Azure, Service Fabric, Unity, YAMAHA RTX
 - 2018 UWP, R, Python, {OWASP TOP10}, .NET Core, .NET Standard
 - 2019 Swift
-- 2021 React, TypeScript, SpringBoot, Kotlin, AWS, node
+- 2021 React, TypeScript, SpringBoot, Kotlin, AWS, node, k8s
 - 2022 [Lean XP], [TDD(BDD)], vite, vitest
-- 2023 [Scrum]
+- 2023 [Scrum], Terraform, HCP
 - 2024 Snyk, NewRelic, PrismaCloud
 - 2025 Slak Bolt
 - 2026 Gemini, Google Workspace
