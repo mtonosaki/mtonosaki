@@ -29,7 +29,7 @@
 - 2011 Android
 - 2013 HTML5, CSS3
 - 2014 WPF
-- 2016 WebGL (three.js)
+- 2016 WebGL (three.js), Microsoft 365
 - 2017 Azure, Service Fabric, Unity, YAMAHA RTX
 - 2018 UWP, R, Python, {OWASP TOP10}, .NET Core, .NET Standard
 - 2019 Swift
@@ -38,3 +38,4 @@
 - 2023 [Scrum]
 - 2024 Snyk, NewRelic, PrismaCloud
 - 2025 Slak Bolt
+- 2026 Gemini, Google Workspace
