@@ -14,10 +14,12 @@
 - 1984 NS-HuBASIC
 - 1985 N88-BASIC
 - 1988 Z80
-- 1990 Hu-BASIC
+- 1989 FM Synthesis, 2D-Graphics
+- 1990 Hu-BASIC, SX-Window
 - 1991 MASM, CASL
-- 1994 C, C++ (Turbo C, MSC, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
+- 1994 C, C++ (Turbo C, MSC, gnu-c, MS-DOS, Tornado(VxWorks), w/ VC; MFC on Windows)
 - 1995 TCP/IP
+- 1997 Photoshop
 - 1999 MacOS (Code worrior)
 - 2000 JAVA (applet, swing, etc...)
 - 2001 Qt
